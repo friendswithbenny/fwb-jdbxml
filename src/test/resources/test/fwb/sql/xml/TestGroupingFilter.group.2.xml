@@ -1,0 +1,11 @@
+<rs foo="bar">
+	<!--Grouping[2]-->
+	<g type="animal" size="bigger">
+		<r name="cheetah" />
+		<r name="human" />
+	</g>
+	<g type="animal" size="smaller">
+		<r name="cricket" />
+		<r name="gerbil" />
+	</g>
+</rs>

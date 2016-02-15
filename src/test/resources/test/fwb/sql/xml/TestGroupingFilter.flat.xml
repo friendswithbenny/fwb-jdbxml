@@ -1,0 +1,6 @@
+<rs foo="bar">
+	<r type="animal" size="bigger" name="cheetah" />
+	<r type="animal" size="bigger" name="human" />
+	<r type="animal" size="smaller" name="cricket" />
+	<r type="animal" size="smaller" name="gerbil" />
+</rs>

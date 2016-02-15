@@ -1,0 +1,13 @@
+<rs foo="bar">
+	<!--Grouping[1, 1]-->
+	<g type="animal">
+		<g size="bigger">
+			<r name="cheetah" />
+			<r name="human" />
+		</g>
+		<g size="smaller">
+			<r name="cricket" />
+			<r name="gerbil" />
+		</g>
+	</g>
+</rs>
